@@ -1,0 +1,2 @@
+df= df.drop(df[df.New column(score) >=2].index)
+df.head(n=10)
